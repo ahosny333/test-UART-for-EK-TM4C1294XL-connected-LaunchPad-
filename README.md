@@ -41,7 +41,7 @@ In the CAN jumper configuration, UART2 maps to the virtual COM port of the ICDI.
 
 ## initialize code composer studio
 
-same as we did in test-gpio project https://github.com/ahosny333/test-gpio
+same as we did in [test-gpio project] (https://github.com/ahosny333/test-gpio)
 ```
 ► build variables for the paths that CCS will need to find your files.
 ► Link driverlib.lib to Your Project 
