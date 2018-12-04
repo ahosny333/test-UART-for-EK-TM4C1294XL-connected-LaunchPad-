@@ -59,4 +59,7 @@ insert the address of the UART interrupt handler into the interrupt vector table
 
 ```
 
-
+## Sponsored by
+<a href = "https://the-diy-life.co">
+<img src="https://the-diy-life.co/images/logo_diylife.jpg"  width="248" height="248">
+</a>
